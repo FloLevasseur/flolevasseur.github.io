@@ -10,3 +10,8 @@ ul {
   outline: 1px solid #414141;
   box-shadow: 10px 10px 10px grey;
 }
+
+ul:hover {
+  
+  background: gold;
+}

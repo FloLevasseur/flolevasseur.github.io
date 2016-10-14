@@ -15,7 +15,18 @@ ul {
   box-shadow: 6px 10px 5px grey;
 }
 
-ul:hover {
-  
+ul:hover {  
   background: gold;
+}
+
+.font01 {
+  font-family: verdana
+}
+
+.font02 {
+  font-family: helvetica
+}
+
+.font03 {
+  font-family: arial
 }

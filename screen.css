@@ -1,10 +1,6 @@
 body {  
   color: #414141;
-  font-family: arial;  
-}
-
-p {
-  font-family: Verdana, Sans-Serif;
+  font-family: helvetica;
 }
 
 ul {  
@@ -20,20 +16,7 @@ ul:hover {
   background: gold;
 }
 
-
 .listTitle {
   
   font-weight: bold;
-}
-
-.font01 {
-  font-family: verdana;
-}
-
-.font02 {
-  font-family: helvetica;
-}
-
-.font03 {
-  font-family: arial;
 }

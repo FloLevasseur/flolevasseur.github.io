@@ -20,4 +20,5 @@ ul:hover {
 .listTitle {
   font-family: verdana;
   font-weight: bold;
+  line-height: 1.6em;
 }

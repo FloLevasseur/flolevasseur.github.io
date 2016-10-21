@@ -10,6 +10,7 @@ ul {
   width: 200px;
   list-style: none;
   outline: 1px solid #414141;
+  border-radius: 10px;
   box-shadow: 6px 10px 5px grey;
 }
 

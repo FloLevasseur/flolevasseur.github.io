@@ -1,18 +1,19 @@
 body {  
-  color: #414141;
+  color: #2d2d2d;
   font-family: helvetica;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 
 ul {  
-  margin: 10px;
+  margin: 18px 18px 18px 10px;
   padding: 4px;
   width: 200px;
+  text-align: center;
   list-style: none;
   background: #e0edff;
   /*outline: 1px solid #414141;*/
   border-radius: 10px;
-  box-shadow: 6px 10px 5px grey;
+  box-shadow: 4px 6px 4px grey;
 }
 
 ul:hover {  
@@ -22,5 +23,9 @@ ul:hover {
 .listTitle {
   font-family: verdana;
   font-weight: bold;
-  line-height: 1.6em;
+  line-height: 1.6em;  
+}
+
+li {
+  text-align: left;
 }
